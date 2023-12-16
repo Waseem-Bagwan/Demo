@@ -6,3 +6,4 @@ Author Waseem bagwan
 Welcome to coding world
 you have to start
 today nothing i have done
+day 1 
